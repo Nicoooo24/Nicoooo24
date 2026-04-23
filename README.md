@@ -1,4 +1,4 @@
-# <div align="center">Nicoooo24_ Developer</div>  
+# <div align="center">Nicoooo24</div>  
 
 * ✉️ If you want to contact me:  [Discord](https://discord.com/users/1216810786505232515) [Telegram](https://t.me/@Nicoooo2424)
 * 🎯 Learning: TypeScript
