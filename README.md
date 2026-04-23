@@ -1,4 +1,4 @@
-# <div align="center">Marco_ Developer</div>  
+# <div align="center">Nicoooo24_ Developer</div>  
 
 * ✉️ If you want to contact me:  [Discord](https://discord.com/users/1216810786505232515)
 * 🎯 Learning: Java
@@ -9,7 +9,7 @@
 [![](https://skillicons.dev/icons?i=js&perline=3)](https://discord.com/users/1216810786505232515)
 
 * Back-end Development <br>
-[![](https://skillicons.dev/icons?i=nodejs,c&perline=3)](https://discord.com/users/1216810786505232515)
+[![](https://skillicons.dev/icons?i=java,c&perline=3)](https://discord.com/users/1216810786505232515)
 
 * Databases <br>
 [![](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://discord.com/users/1216810786505232515)
