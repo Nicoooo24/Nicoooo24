@@ -6,7 +6,7 @@
  ## :zap:Languages
 
 * Front-end Development <br>
-[![](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://discord.com/users/1216810786505232515)
+[![](https://skillicons.dev/icons?i=html,css&perline=3)](https://discord.com/users/1216810786505232515)
 
 * Back-end Development <br>
 [![](https://skillicons.dev/icons?i=java,python&perline=3)](https://discord.com/users/1216810786505232515)
