@@ -1,6 +1,6 @@
 # <div align="center">Nicoooo24_ Developer</div>  
 
-* ✉️ If you want to contact me:  [Discord](https://discord.com/users/1216810786505232515)
+* ✉️ If you want to contact me:  [Discord](https://discord.com/users/1216810786505232515) [Telegram](https://t.me/@Nicoooo2424)
 * 🎯 Learning: TypeScript
 
  ## :zap:Languages
@@ -22,4 +22,4 @@
 
 ![Nicoooo24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicoooo24&show_icons=true&theme=algolia ) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoooo24&layout=compact&theme=algolia) <br>
-Contact Me: [Discord](https://discord.com/users/1216810786505232515) 
+Contact Me: [Discord](https://discord.com/users/1216810786505232515) [Telegram](https://t.me/@Nicoooo2424)
