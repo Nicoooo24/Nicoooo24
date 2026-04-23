@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Nicoooo24/Nicoooo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🛠️ Currently Developer on SurfMC
+    ✉️ If you want to contact me: Discord
+    🎯 Learning: Java
 
-Here are some ideas to get you started:
+⚡Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Front-end Development
+
+    Back-end Development
+
+    Databases
+
+    Project Management
+
+    Text Editors/IDEs
+
+
