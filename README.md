@@ -15,7 +15,7 @@
 [![](https://skillicons.dev/icons?i=sqlite,mysql&perline=3)](https://discord.com/users/1216810786505232515)
 
 - Project Management <br>
-[![](https://skillicons.dev/icons?i=github,trello&perline=3)](https://discord.com/users/1216810786505232515)
+[![](https://skillicons.dev/icons?i=github&perline=3)](https://discord.com/users/1216810786505232515) [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51UvezN1lKVtCt0SfCd2jXep8cDmUaRkjKg&s)](https://discord.com/users/1216810786505232515)
 
 - Text Editors/IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=vscode,idea&perline=3)](https://discord.com/users/1216810786505232515)
