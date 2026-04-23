@@ -1,7 +1,7 @@
 # <div align="center">Nicoooo24_ Developer</div>  
 
 * ✉️ If you want to contact me:  [Discord](https://discord.com/users/1216810786505232515)
-* 🎯 Learning: Java
+* 🎯 Learning: TypeScript
 
  ## :zap:Languages
 
@@ -9,13 +9,13 @@
 [![](https://skillicons.dev/icons?i=js&perline=3)](https://discord.com/users/1216810786505232515)
 
 * Back-end Development <br>
-[![](https://skillicons.dev/icons?i=java,c&perline=3)](https://discord.com/users/1216810786505232515)
+[![](https://skillicons.dev/icons?i=java,python&perline=3)](https://discord.com/users/1216810786505232515)
 
 * Databases <br>
-[![](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://discord.com/users/1216810786505232515)
+[![](https://skillicons.dev/icons?i=sqlite,mysql&perline=3)](https://discord.com/users/1216810786505232515)
 
 - Project Management <br>
-[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://discord.com/users/1216810786505232515)
+[![](https://skillicons.dev/icons?i=github,trello&perline=3)](https://discord.com/users/1216810786505232515)
 
 - Text Editors/IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=vscode,idea&perline=3)](https://discord.com/users/1216810786505232515)
